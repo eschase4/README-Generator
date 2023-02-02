@@ -1,5 +1,5 @@
 const fs = require(`fs/promises`)
-const { questions } = require("./questions");
+const { questions } = require("../questions");
 
 function renderLicenseBadge(response) {
   switch (response.license) {
@@ -61,5 +61,5 @@ function renderLicenseBadge(response) {
 }
 
 module.exports = {
-  generateMarkdown, renderLicenseBadge
+   renderLicenseBadge
 }

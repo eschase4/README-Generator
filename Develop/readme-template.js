@@ -1,7 +1,6 @@
-const { generateMarkdown, renderLicenseBadge }= require("./generateMarkdown");
+const { renderLicenseBadge }= require("./utils/generateLicense");
 
 const readMeGenerator = (response) => {
-    const license = generateMarkdown(response);
     const badge = renderLicenseBadge(response);
     return `# ${response.projectTitle}
     
@@ -11,6 +10,11 @@ ${badge[0]}
 1. Description
 2. Installation
 3. Usage
+4. Contribution
+5. Technologies
+6. Tests
+7. Credits
+8. License
 
 ## Descripton  
 
@@ -32,21 +36,25 @@ ${response.installationFive}
 
 ${response.usage}
 
-## Credits 
-
-${response.credits}
-
 ## How To Contribute
 
 ${response.contributing}
 
-## License
+## Technologies
 
-This application was made under the ${badge[1]} license.
+${response.technology}
 
 ## Tests
+
 ${response.tests}
-`
+
+## Credits 
+
+${response.credits}
+
+## License
+
+This application was made under the ${badge[1]} license.`
 }
 
 module.exports = {

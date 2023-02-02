@@ -13,11 +13,11 @@ const questions = [
         name: "motivation"
     },{
         type: "input",
-        message: "Why did you make this applications",
+        message: "What problems does this application solve?",
         name: "objective"
     },{
         type: "input",
-        message: "What problem did you look to solve with this application",
+        message: "What makes this a good idea for an application?",
         name: "reasoning"
     },{
         type: "input",  
@@ -47,6 +47,10 @@ const questions = [
         type: "input",
         message: `Please provide instructions on how to use this application. Provide examples if possible.`,
         name: "usage"
+    },{
+        type: "input",
+        message: `What technologies does this application use.`,
+        name: "technology"
     },{
         type: "input",
         message: `If possible, please describe how users can contribute to this project.`,

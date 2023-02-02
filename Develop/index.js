@@ -1,7 +1,6 @@
 const inquirer = require('inquirer');
 const { questions }  = require('./questions');
-const { readMeGenerator } = require('./readmetemplate');
-const { generateMarkdown, renderLicenseBadge }= require("./generateMarkdown");
+const { readMeGenerator } = require('./readme-template');
 const fs = require(`fs/promises`);
     
   

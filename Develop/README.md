@@ -1,6 +1,6 @@
-# 
+# Readme Generator
     
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
     
 ## Table of Contents
 1. Description
@@ -9,35 +9,40 @@
 
 ## Descripton  
 
--
--
--
--
+-My motivation to 
+-aerer
+-erqe
+-aeraer
 
 
 ## Installation
 
-
-
-
-
-
+aeraer
+aer
+aer
+aer
+aer
 
 ## Usage
 
+aer
 
+## How To Contribute
+
+aer
+
+## Technlogies
+
+aer
+
+## Tests
+
+aer
 
 ## Credits 
 
 
 
-## How To Contribute
-
-
-
 ## License
 
-This application was made under the Apache license.
-
-## Tests
-
+This application was made under the Boost license.
