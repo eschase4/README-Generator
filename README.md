@@ -25,6 +25,7 @@
 To use this application, open your terminal in the develope directory, and type 'node index.js' to begin. Answer the questions you are prompted with to provide data for the readme. Press Enter if you want to skip a question. When finished, scan over the new README.md file in the output folder for spelling and grammar errors, and remove sections that you did not provide answers for.
 
 Here is a video showing how it is used:
+https://drive.google.com/file/d/1rhkj-0pXw3qzRnKA6ESQar-Olo-aJcKJ/view
 
 ## Technlogies
 
