@@ -4,7 +4,14 @@ const readMeGenerator = (response) => {
     const badge = renderLicenseBadge(response);
     return `# ${response.projectTitle}
     
-${badge[0]}
+    ${badge[0]}    
+
+## Description  
+    
+-${response.motivation}
+-${response.objective}
+-${response.whatILearned}
+    
     
 ## Table of Contents
 1. Description
@@ -15,13 +22,6 @@ ${badge[0]}
 6. Tests
 7. Credits
 8. License
-
-## Description  
-
--${response.motivation}
--${response.reasoning}
--${response.objective}
--${response.whatILearned}
 
 
 ## Installation

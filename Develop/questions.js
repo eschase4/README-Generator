@@ -1,6 +1,6 @@
 const questions = [
     {
-        message: "Hello, welcome to my README generator. Please answer the following questions in complete sentences. Press Enter to continue.",
+        message: "Hello, welcome to my README generator. Press Enter to continue.",
         name: "begin"
     },
     {
@@ -23,10 +23,6 @@ const questions = [
         type: "input",
         message: "What problems does this application solve?",
         name: "objective"
-    },{
-        type: "input",
-        message: "What makes this a good idea for an application?",
-        name: "reasoning"
     },{
         type: "input",  
         message: "What did you learn while making this application?",

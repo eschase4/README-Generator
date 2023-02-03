@@ -1,12 +1,13 @@
-# README Generator
+# Readme generator
     
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)    
+    [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)    
 
 ## Description  
     
--My motivation was to quickly make readme files
--
--
+-to quickly make readmes
+-making readmes can overly repetative
+-using npms
+    
     
 ## Table of Contents
 1. Description
@@ -21,35 +22,35 @@
 
 ## Installation
 
-
-
+git clone
+test
 
 
 
 
 ## Usage
 
-
+watch the video
 
 ## How To Contribute
 
-
+i dont
 
 ## Technologies
 
-
+npm node javascript
 
 ## Tests
 
-
+I dont know
 
 ## Credits 
 
-
+just me
 
 ## License
 
-This application was made under the Apache license.
+This application was made under the Unlicense license.
 
 ## Questions
 

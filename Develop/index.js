@@ -6,9 +6,8 @@ const fs = require(`fs/promises`);
     
   
 const handleResponse = (response) => {
-    console.log(response);
     const readMe = readMeGenerator(response);
-    fs.writeFile("README.md", `${readMe}`, "utf8")
+    fs.writeFile("./output/README.md", `${readMe}`, "utf8")
     .then(() => console.log("file created"));
 }
 
