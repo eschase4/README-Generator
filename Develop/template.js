@@ -8,9 +8,9 @@ const readMeGenerator = (response) => {
 
 ## Description  
     
--${response.motivation}
--${response.objective}
--${response.whatILearned}
+${response.motivation}.
+${response.objective}.
+${response.whatILearned}.
     
     
 ## Table of Contents
