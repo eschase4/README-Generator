@@ -1,6 +1,7 @@
+// OPEN THIS FILE IN YOUR TERMINAL, AND TYPE 'node index.js' TO BEGIN
 const inquirer = require('inquirer');
 const { questions }  = require('./questions');
-const { readMeGenerator } = require('./readme-template');
+const { readMeGenerator } = require('./template');
 const fs = require(`fs/promises`);
     
   

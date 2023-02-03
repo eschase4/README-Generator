@@ -5,6 +5,14 @@ const questions = [
     },
     {
         type: "input",
+        message: "What is your GitHub username?",
+        name: "github"
+    },{
+        type: "input",
+        message: "What is your email adress?",
+        name: "email"
+    },{
+        type: "input",
         message: "What is your project title?",
         name: "projectTitle"
     },{
@@ -69,7 +77,7 @@ const questions = [
         message: `Lastly, please list the other developers who also worked on this application.`,
         name: "credits"
     },{
-        message: `Complete! Hit Enter one more time, and make sure to check your README.md doc for typos!`,
+        message: `Complete! Hit Enter one more time, and make sure to check your README.md doc for formatting issues and typos!`,
         name: `final`
     }
 ];

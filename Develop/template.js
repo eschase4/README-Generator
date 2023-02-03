@@ -16,7 +16,7 @@ ${badge[0]}
 7. Credits
 8. License
 
-## Descripton  
+## Description  
 
 -${response.motivation}
 -${response.reasoning}
@@ -54,7 +54,13 @@ ${response.credits}
 
 ## License
 
-This application was made under the ${badge[1]} license.`
+This application was made under the ${badge[1]} license.
+
+## Questions
+
+Github: https://github.com/${response.github}
+
+My email address is ${response.email}, feel free to reach out for any questions you may have.`
 }
 
 module.exports = {
