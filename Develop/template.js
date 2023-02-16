@@ -6,24 +6,25 @@ const readMeGenerator = (response) => {
     
     ${badge[0]}    
 
+<a name="description"></a>
 ## Description  
     
-${response.motivation}.
-${response.objective}.
-${response.whatILearned}.
+${response.motivation}.<br>
+${response.objective}.<br>
+${response.whatILearned}.<br>
     
     
 ## Table of Contents
-1. Description
-2. Installation
-3. Usage
-4. Contribution
-5. Technologies
-6. Tests
-7. Credits
-8. License
+-[Description](#description)<br> 
+-[Installation](#installation)<br>
+-[Usage](#usage)<br>
+-[Contribution](#contribution)<br>
+-[Technologies](#technologies)<br>
+-[Tests](#tests)<br>
+-[Credits](#credits)<br>
+-[License](#license)<br>
 
-
+<a name="installation"></a>
 ## Installation
 
 ${response.installationOne}
@@ -32,26 +33,32 @@ ${response.installationThree}
 ${response.installationFour}
 ${response.installationFive}
 
+<a name="usage"></a>
 ## Usage
 
 ${response.usage}
 
+<a name="contribution"></a>
 ## How To Contribute
 
 ${response.contributing}
 
+<a name="technologies"></a>
 ## Technologies
 
 ${response.technology}
 
+<a name="tests"></a>
 ## Tests
 
 ${response.tests}
 
+<a name="credits"></a>
 ## Credits 
 
 ${response.credits}
 
+<a name="license"></a>
 ## License
 
 This application was made under the ${badge[1]} license.

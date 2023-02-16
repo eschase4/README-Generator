@@ -1,59 +1,66 @@
-# Readme generator
+# awrg
     
-    [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)    
+        
 
+<a name="description"></a>
 ## Description  
     
--to quickly make readmes
--making readmes can overly repetative
--using npms
+aewrg.<br>
+aeerg.<br>
+awrwg.<br>
     
     
 ## Table of Contents
-1. Description
-2. Installation
-3. Usage
-4. Contribution
-5. Technologies
-6. Tests
-7. Credits
-8. License
+-[Description](#description)<br> 
+-[Installation](#installation)<br>
+-[Usage](#usage)<br>
+-[Contribution](#contribution)<br>
+-[Technologies](#technologies)<br>
+-[Tests](#tests)<br>
+-[Credits](#credits)<br>
+-[License](#license)<br>
 
-
+<a name="installation"></a>
 ## Installation
 
-git clone
-test
+awereg
+awrg
+awrg
+awergr
+awrgr
 
-
-
-
+<a name="usage"></a>
 ## Usage
 
-watch the video
+awrg
 
+<a name="contribution"></a>
 ## How To Contribute
 
-i dont
+awrg
 
+<a name="technologies"></a>
 ## Technologies
 
-npm node javascript
+awrg
 
+<a name="tests"></a>
 ## Tests
 
-I dont know
+awerg
 
+<a name="credits"></a>
 ## Credits 
 
-just me
 
+
+<a name="license"></a>
 ## License
 
-This application was made under the Unlicense license.
+This application was made under the !!!ERASE THIS SECTION!!! license.
 
 ## Questions
 
-Github: https://github.com/eschase4
+Github: https://github.com/awergawrg
 
-My email address is eschase4@gmail.com, feel free to reach out for any questions you may have.
+My email address is awrgawr, feel free to reach out for any questions you may have.
